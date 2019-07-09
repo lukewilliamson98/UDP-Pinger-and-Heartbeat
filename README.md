@@ -17,4 +17,6 @@ UDP_Hb        - Contains out files for the Heartbeat server and client scripts
 
 UDP_Ping      - Contains out files for the Ping server and client scripts
 
+output_table  - Table containing sample outputs for readability
+
 Please note: I did not write the code for UDP_PingS.py or for UDP_topo.py
