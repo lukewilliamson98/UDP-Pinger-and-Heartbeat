@@ -1,0 +1,73 @@
+Request timed out
+Request timed out
+Reply from 10.0.0.6: PING 3 Mon Apr 29 16:30:34 2019
+RTT: 0.147777080536
+Request timed out
+Reply from 10.0.0.6: PING 5 Mon Apr 29 16:30:35 2019
+RTT: 0.147384881973
+Request timed out
+Reply from 10.0.0.6: PING 7 Mon Apr 29 16:30:36 2019
+RTT: 0.148775100708
+Request timed out
+Request timed out
+Request timed out
+Request timed out
+Request timed out
+Request timed out
+Request timed out
+Reply from 10.0.0.6: PING 15 Mon Apr 29 16:30:43 2019
+RTT: 0.147708892822
+Request timed out
+Reply from 10.0.0.6: PING 17 Mon Apr 29 16:30:44 2019
+RTT: 0.148139953613
+Reply from 10.0.0.6: PING 18 Mon Apr 29 16:30:44 2019
+RTT: 0.147463798523
+Reply from 10.0.0.6: PING 19 Mon Apr 29 16:30:45 2019
+RTT: 0.147439956665
+Reply from 10.0.0.6: PING 20 Mon Apr 29 16:30:45 2019
+RTT: 0.148010015488
+Reply from 10.0.0.6: PING 21 Mon Apr 29 16:30:45 2019
+RTT: 0.147624015808
+Request timed out
+Reply from 10.0.0.6: PING 23 Mon Apr 29 16:30:46 2019
+RTT: 0.148049116135
+Request timed out
+Request timed out
+Reply from 10.0.0.6: PING 26 Mon Apr 29 16:30:48 2019
+RTT: 0.14755988121
+Reply from 10.0.0.6: PING 27 Mon Apr 29 16:30:48 2019
+RTT: 0.147454977036
+Request timed out
+Request timed out
+Request timed out
+Reply from 10.0.0.6: PING 31 Mon Apr 29 16:30:51 2019
+RTT: 0.148106813431
+Request timed out
+Request timed out
+Request timed out
+Request timed out
+Request timed out
+Reply from 10.0.0.6: PING 37 Mon Apr 29 16:30:57 2019
+RTT: 0.14799785614
+Request timed out
+Request timed out
+Reply from 10.0.0.6: PING 40 Mon Apr 29 16:30:59 2019
+RTT: 0.147486925125
+Request timed out
+Reply from 10.0.0.6: PING 42 Mon Apr 29 16:31:00 2019
+RTT: 0.147805929184
+Reply from 10.0.0.6: PING 43 Mon Apr 29 16:31:00 2019
+RTT: 0.14741897583
+Reply from 10.0.0.6: PING 44 Mon Apr 29 16:31:00 2019
+RTT: 0.148146867752
+Reply from 10.0.0.6: PING 45 Mon Apr 29 16:31:00 2019
+RTT: 0.147474050522
+Request timed out
+Reply from 10.0.0.6: PING 47 Mon Apr 29 16:31:01 2019
+RTT: 0.147834062576
+Request timed out
+Request timed out
+Reply from 10.0.0.6: PING 50 Mon Apr 29 16:31:04 2019
+RTT: 0.147341966629
+50 packets sent, 21 packets received, 29 packets lost, packet loss rate: 58.0 %
+minRTT = 0.147341966629, avgRTT = 0.147761957986, maxRTT = 0.148775100708
